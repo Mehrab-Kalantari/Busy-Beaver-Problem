@@ -5,3 +5,9 @@ The busy beaver problem is a fun theoretical computer science problem. Intuitive
 ####
 Let's denote B(n) to be the number of 1s that the busy beaver managed to put on the tape. This function B(n) is called the busy beaver function and it is the solution to the busy beaver problem.
 It grows like this:
+* B(1) = 1
+* B(2) = 4
+* B(3) = 6
+* B(4) = 13
+* B(5) = 4098 (the exact result has not yet been found)
+* B(6) = 4.6 · 101439 (the exact result shall never be known)
