@@ -29,3 +29,5 @@ It grows like this:
 * b0 -> a1l  |  b1 -> c0l
 * c0 -> h1r  |  c1 -> d1l
 * d0 -> d1r  |  d1 -> a0r
+
+To run the following code just pass number of states as command line argument
