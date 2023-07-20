@@ -11,3 +11,7 @@ It grows like this:
 * B(4) = 13
 * B(5) = 4098 (the exact result has not yet been found)
 * B(6) = 4.6 · 101439 (the exact result shall never be known)
+--- 
+# Turing Machine for n-state busy beaver
+### Turing Machine for 1-state busy beaver:
+#### a0 -> h1r
