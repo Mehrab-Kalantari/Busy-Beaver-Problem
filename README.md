@@ -9,8 +9,7 @@ It grows like this:
 * B(2) = 4
 * B(3) = 6
 * B(4) = 13
-* B(5) = 4098 (the exact result has not yet been found)
-* B(6) = 4.6 · 101439 (the exact result shall never be known)
+* B(5) = 4098 
 --- 
 # Turing Machine for n-state busy beaver
 ### Turing Machine for 1-state busy beaver:
