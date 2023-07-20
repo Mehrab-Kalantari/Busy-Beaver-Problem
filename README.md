@@ -16,16 +16,16 @@ It grows like this:
 * a0 -> h1r
 
 ### Turing Machine for 2-state busy beaver:
-* a0 -> b1r  a1 -> b1l
-* b0 -> a1l  b1 -> h1r
+* a0 -> b1r | a1 -> b1l
+* b0 -> a1l | b1 -> h1r
 
 ### Turing Machine for 3-state Busy Beaver:
-* a0 -> b1r    a1 -> h1r
-* b0 -> c0r    b1 -> b1r
-* c0 -> c1l    c1 -> a1l
+* a0 -> b1r  |  a1 -> h1r
+* b0 -> c0r  |  b1 -> b1r
+* c0 -> c1l  |  c1 -> a1l
 
 ### Turing Machine for 4-state Busy Beaver:
-* a0 -> b1r    a1 -> b1l
-* b0 -> a1l    b1 -> c0l
-* c0 -> h1r    c1 -> d1l
-* d0 -> d1r    d1 -> a0r
+* a0 -> b1r  |  a1 -> b1l
+* b0 -> a1l  |  b1 -> c0l
+* c0 -> h1r  |  c1 -> d1l
+* d0 -> d1r  |  d1 -> a0r
